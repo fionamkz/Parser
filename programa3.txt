@@ -1,0 +1,7 @@
+inicio-programa
+	variables x, y, z
+	x = 13
+	y = 25
+	z = x + y
+	escribir "La suma es: ", z
+fin-programa
